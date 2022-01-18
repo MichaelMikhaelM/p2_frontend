@@ -1,27 +1,42 @@
-# SocialNetwork
+<h2>Revature Social Network Platform</h2>
+In this social network, everyone is friends with everyone. As a user, you will be able to register and login to your account. When you successfully login, you are automatically friends with everyone which means you will see a feed of everyone's posts. Users will be able to create a post and like other people's posts. Users will also have the ability to view other profiles which will display posts of that specific user.
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.1.1.
+<h2>Technologies</h2>
+<ul>
+<li>Java - version 1.8.</li>
+<li>Postgresql - version 42.3.1.</li>
+<li>Javalin - version 4.1.1.</li>
+<li>Angular - version 17.3.0.</li>
+<li>JUnit - version 5.8.1.</li>
+<li>Mockito - version 4.0.0.</li>
+<li>Selenium - version 4.1.0.</li>
+</ul>
 
-## Development server
+<h2>Features</h2>
+<ul>
+<li>Responsive.</li>
+<li>User Friendly.</li>
+</ul>
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+<h2>Getting Started</h2>
+<h3>Requirements</h3>
+<ul>
+<li>Java - version 1.8.</li>
+<li>Apache Maven - version 3.8.4.</li>
+<li>Angular - version 17.3.0.</li>  
+</ul>
 
-## Code scaffolding
+To use the application
+download the repository:`https://github.com/MichaelMikhaelM/p2_backend`.
+Go to the downloaded repository directory and run the command `mvn clean install`.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+<h2>Contributors</h2>
+<ul>
+  <li>Alfred Garcia</li>
+  <li>Angel Depena</li>
+  <li>Jakarai Forsythe</li>
+  <li>Michael Mikhael</li>
+</ul>  
+  
 
-## Build
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
